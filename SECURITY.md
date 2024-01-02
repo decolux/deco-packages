@@ -6,4 +6,4 @@ The latest version (as specified in the releases for this repository for each en
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, use github's report function, or send an email to d10sfan+luxtorpeda@gmail.com with the necessary information. Maintainers will respond as soon as possible and resolution depends on how large the issue is.
+To report a vulnerability, use github's report function. Maintainers will respond as soon as possible and resolution depends on how large the issue is.
